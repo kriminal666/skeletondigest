@@ -1,0 +1,208 @@
+2014/10/15 20:49:58: binddn: cn=System Administrator-admin,ou=people,dc=iesebre,dc=com
+2014/10/15 20:49:58: User info: array (
+  'cn' => 'System Administrator-admin',
+  'dn' => 'cn=System Administrator-admin,ou=people,dc=iesebre,dc=com',
+  'id' => 'admin',
+  'role' => false,
+  'roles' => 
+  array (
+  ),
+  'rolesdn' => 
+  array (
+  ),
+)
+2014/10/15 20:49:58: admin autenticat correctament, però no es permet l'accés perquè l'usuari no pertany a cap grup amb permisos per accedir a l'aplicació
+2014/10/15 21:16:56: binddn: cn=System Administrator-admin,ou=people,dc=iesebre,dc=com
+2014/10/15 21:16:56: User info: array (
+  'cn' => 'System Administrator-admin',
+  'dn' => 'cn=System Administrator-admin,ou=people,dc=iesebre,dc=com',
+  'id' => 'admin',
+  'role' => 3,
+  'roles' => 
+  array (
+    0 => 'intranet_admin',
+  ),
+  'rolesdn' => 
+  array (
+    0 => 'cn=intranet_admin,dc=iesebre,dc=com',
+  ),
+)
+2014/10/15 21:16:56: Login correcte: System Administrator-admin (admin) origen 127.0.0.1
+2014/10/15 21:17:10: binddn: cn=System Administrator-admin,ou=people,dc=iesebre,dc=com
+2014/10/15 21:17:10: User info: array (
+  'cn' => 'System Administrator-admin',
+  'dn' => 'cn=System Administrator-admin,ou=people,dc=iesebre,dc=com',
+  'id' => 'admin',
+  'role' => 3,
+  'roles' => 
+  array (
+    0 => 'intranet_admin',
+  ),
+  'rolesdn' => 
+  array (
+    0 => 'cn=intranet_admin,dc=iesebre,dc=com',
+  ),
+)
+2014/10/15 21:17:10: Login correcte: System Administrator-admin (admin) origen 127.0.0.1
+2014/10/15 21:21:59: binddn: cn=System Administrator-admin,ou=people,dc=iesebre,dc=com
+2014/10/15 21:21:59: User info: array (
+  'cn' => 'System Administrator-admin',
+  'dn' => 'cn=System Administrator-admin,ou=people,dc=iesebre,dc=com',
+  'id' => 'admin',
+  'role' => 3,
+  'roles' => 
+  array (
+    0 => 'intranet_admin',
+  ),
+  'rolesdn' => 
+  array (
+    0 => 'cn=intranet_admin,dc=iesebre,dc=com',
+  ),
+)
+2014/10/15 21:21:59: Login correcte: System Administrator-admin (admin) origen 127.0.0.1
+2014/10/15 21:34:35: binddn: cn=System Administrator-admin,ou=people,dc=iesebre,dc=com
+2014/10/15 21:34:35: User info: array (
+  'cn' => 'System Administrator-admin',
+  'dn' => 'cn=System Administrator-admin,ou=people,dc=iesebre,dc=com',
+  'id' => 'admin',
+  'role' => 3,
+  'roles' => 
+  array (
+    0 => 'intranet_admin',
+  ),
+  'rolesdn' => 
+  array (
+    0 => 'cn=intranet_admin,dc=iesebre,dc=com',
+  ),
+)
+2014/10/15 21:34:35: Login correcte: System Administrator-admin (admin) origen 127.0.0.1
+2014/10/16 21:43:05: binddn: cn=System Administrator-admin,ou=people,dc=iesebre,dc=com
+2014/10/16 21:43:05: User info: array (
+  'cn' => 'System Administrator-admin',
+  'dn' => 'cn=System Administrator-admin,ou=people,dc=iesebre,dc=com',
+  'id' => 'admin',
+  'role' => 3,
+  'roles' => 
+  array (
+    0 => 'intranet_admin',
+  ),
+  'rolesdn' => 
+  array (
+    0 => 'cn=intranet_admin,dc=iesebre,dc=com',
+  ),
+)
+2014/10/16 21:43:05: Login correcte: System Administrator-admin (admin) origen 127.0.0.1
+2014/10/20 19:46:59: binddn: cn=System Administrator-admin,ou=people,dc=iesebre,dc=com
+2014/10/20 19:46:59: User info: array (
+  'cn' => 'System Administrator-admin',
+  'dn' => 'cn=System Administrator-admin,ou=people,dc=iesebre,dc=com',
+  'id' => 'admin',
+  'role' => 3,
+  'roles' => 
+  array (
+    0 => 'intranet_admin',
+  ),
+  'rolesdn' => 
+  array (
+    0 => 'cn=intranet_admin,dc=iesebre,dc=com',
+  ),
+)
+2014/10/20 19:46:59: Login correcte: System Administrator-admin (admin) origen 127.0.0.1
+2014/10/23 11:55:00: binddn: cn=System Administrator-admin,ou=people,dc=iesebre,dc=com
+2014/10/23 11:55:00: User info: array (
+  'cn' => 'System Administrator-admin',
+  'dn' => 'cn=System Administrator-admin,ou=people,dc=iesebre,dc=com',
+  'id' => 'admin',
+  'role' => 3,
+  'roles' => 
+  array (
+    0 => 'intranet_admin',
+  ),
+  'rolesdn' => 
+  array (
+    0 => 'cn=intranet_admin,dc=iesebre,dc=com',
+  ),
+)
+2014/10/23 11:55:00: Login correcte: System Administrator-admin (admin) origen 127.0.0.1
+2014/10/24 15:43:09: binddn: cn=System Administrator-admin,ou=people,dc=iesebre,dc=com
+2014/10/24 15:43:09: User info: array (
+  'cn' => 'System Administrator-admin',
+  'dn' => 'cn=System Administrator-admin,ou=people,dc=iesebre,dc=com',
+  'id' => 'admin',
+  'role' => 3,
+  'roles' => 
+  array (
+    0 => 'intranet_admin',
+  ),
+  'rolesdn' => 
+  array (
+    0 => 'cn=intranet_admin,dc=iesebre,dc=com',
+  ),
+)
+2014/10/24 15:43:09: Login correcte: System Administrator-admin (admin) origen 127.0.0.1
+2014/10/24 17:35:31: binddn: cn=System Administrator-admin,ou=people,dc=iesebre,dc=com
+2014/10/24 17:35:31: User info: array (
+  'cn' => 'System Administrator-admin',
+  'dn' => 'cn=System Administrator-admin,ou=people,dc=iesebre,dc=com',
+  'id' => 'admin',
+  'role' => 3,
+  'roles' => 
+  array (
+    0 => 'intranet_admin',
+  ),
+  'rolesdn' => 
+  array (
+    0 => 'cn=intranet_admin,dc=iesebre,dc=com',
+  ),
+)
+2014/10/24 17:35:31: Login correcte: System Administrator-admin (admin) origen 127.0.0.1
+2014/10/24 20:04:27: binddn: cn=System Administrator-admin,ou=people,dc=iesebre,dc=com
+2014/10/24 20:04:27: Login incorrecte: admin 127.0.0.1
+2014/10/24 20:04:44: binddn: cn=System Administrator-admin,ou=people,dc=iesebre,dc=com
+2014/10/24 20:04:44: User info: array (
+  'cn' => 'System Administrator-admin',
+  'dn' => 'cn=System Administrator-admin,ou=people,dc=iesebre,dc=com',
+  'id' => 'admin',
+  'role' => 3,
+  'roles' => 
+  array (
+    0 => 'intranet_admin',
+  ),
+  'rolesdn' => 
+  array (
+    0 => 'cn=intranet_admin,dc=iesebre,dc=com',
+  ),
+)
+2014/10/24 20:04:44: Login correcte: System Administrator-admin (admin) origen 127.0.0.1
+2014/10/25 12:24:13: binddn: cn=System Administrator-admin,ou=people,dc=iesebre,dc=com
+2014/10/25 12:24:13: User info: array (
+  'cn' => 'System Administrator-admin',
+  'dn' => 'cn=System Administrator-admin,ou=people,dc=iesebre,dc=com',
+  'id' => 'admin',
+  'role' => 3,
+  'roles' => 
+  array (
+    0 => 'intranet_admin',
+  ),
+  'rolesdn' => 
+  array (
+    0 => 'cn=intranet_admin,dc=iesebre,dc=com',
+  ),
+)
+2014/10/25 12:24:13: Login correcte: System Administrator-admin (admin) origen 127.0.0.1
+2014/10/27 17:43:24: binddn: cn=System Administrator-admin,ou=people,dc=iesebre,dc=com
+2014/10/27 17:43:24: User info: array (
+  'cn' => 'System Administrator-admin',
+  'dn' => 'cn=System Administrator-admin,ou=people,dc=iesebre,dc=com',
+  'id' => 'admin',
+  'role' => 3,
+  'roles' => 
+  array (
+    0 => 'intranet_admin',
+  ),
+  'rolesdn' => 
+  array (
+    0 => 'cn=intranet_admin,dc=iesebre,dc=com',
+  ),
+)
+2014/10/27 17:43:24: Login correcte: System Administrator-admin (admin) origen 127.0.0.1

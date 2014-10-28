@@ -1,0 +1,4 @@
+AuthType Digest
+AuthUserFile /etc/apache2/.skeletonDigest
+AuthName "skeletondigest"
+Require valid-user
